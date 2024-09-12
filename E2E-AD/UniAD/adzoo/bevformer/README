@@ -1,0 +1,3 @@
+## Eval BEVFormer with 1 GPU
+
+adzoo/bevformer/dist_test.sh adzoo/bevformer/configs/bevformer/bevformer_base.py /data/jiangyule/jittor-ad/adzoo/bevformer/ckpts/bevformer_r101_dcn_24ep.pth 1

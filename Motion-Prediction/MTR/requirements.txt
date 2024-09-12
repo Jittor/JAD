@@ -1,0 +1,8 @@
+numpy
+tensorboardX
+easydict
+pyyaml
+scikit-image
+tqdm
+pillow==9.2.0
+nuscenes-devkit
