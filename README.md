@@ -68,11 +68,11 @@ QQ Group: 761222083
 
 ## Team （团队）
 
-JAD is currently maintained by [SJTU-ReThinkLab](https://thinklab.sjtu.edu.cn/) with the support from Tsinghua Jittor team and [CSCG Group](https://cg.cs.tsinghua.edu.cn/).
+JAD, as a sub-project under Tsinghua University [Jittor project](http://cg.cs.tsinghua.edu.cn/jittor/), is its strategic layout and expansion in the field of autonomous driving. It is an open-source repository initiated by [SJTU-ReThinkLab](https://thinklab.sjtu.edu.cn/) and jointly maintained with the [CSCG Group](https://cg.cs.tsinghua.edu.cn/) at Tsinghua University.
 
 Feel free to request support for new models and contribute to JAD. We are thrilled to co-build the Jittor + Autonomous Driving ecosystem and grow together. 
 
-JAD是由上海交通大学ReThinkLab维护，清华大学计图团队与CSCG组提供了技术支持。
+JAD作为清华大学计图官方项目在自动驾驶领域的布局和扩展，是由上海交通大学[ReThinkLab](https://thinklab.sjtu.edu.cn/)发起，与清华大学[CSCG组](https://cg.cs.tsinghua.edu.cn/)共同维护的开源代码库。
 
 欢迎提出希望得到支持的模型以及贡献自己的模型。我们很高兴能与社区一起共建国产深度学习框架Jittor + 自动驾驶的生态，共同成长。
 
@@ -90,3 +90,11 @@ JAD是由上海交通大学ReThinkLab维护，清华大学计图团队与CSCG组
   year={2020}
 }
 ```
+
+## Acknowledgement (鸣谢)
+1. [Jittor](https://github.com/Jittor/jittor)
+2. [mmcv](https://github.com/open-mmlab/mmcv)
+3. [BEVFormer](https://github.com/fundamentalvision/BEVFormer)
+4. [MTR](https://github.com/sshaoshuai/MTR)
+5. [UniAD](https://github.com/OpenDriveLab/UniAD)
+
